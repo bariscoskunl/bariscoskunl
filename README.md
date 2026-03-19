@@ -22,6 +22,13 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
 
 ---
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bariscoskunl&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscoskunl&layout=compact&theme=dark)
+
+
+---
+
 ## 🚀 Hedefler
 - Temiz kod (Clean Code) ve SOLID prensiplerine uygun projeler geliştirmek.
 - Backend mimarilerinde derinleşerek kurumsal sistemlere katkı sağlamak.
