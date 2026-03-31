@@ -22,8 +22,7 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
 
 ---
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bariscoskunl&show_icons=true&theme=dark
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bariscoskunl&layout=compact&theme=dark
+![Barış'ın GitHub İstatistikleri](my-github-stats-gamma.vercel.app/api?username=bariscoskunl&show_icons=true&theme=radical)
 
 ---
 
