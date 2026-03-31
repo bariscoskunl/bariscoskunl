@@ -22,12 +22,19 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
 
 ---
 
+<h3 align="center">🛠️ Teknolojiler & Araçlar</h3>
 <p align="center">
-  <img height="180" src="https://my-github-stats-gamma.vercel.app/api?username=bariscoskunl&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" />
-  
-  <img height="180" src="https://my-github-stats-gamma.vercel.app/api/top-langs/?username=bariscoskunl&layout=compact&theme=tokyonight&exclude_repo=my-github-stats&v=2" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,visualstudio,sqlserver,git,postman,swagger,github,docker" />
+  </a>
 </p>
 
+<h3 align="center">📊 GitHub Verilerim</h3>
+<p align="center">
+  <img height="195" src="https://my-github-stats-gamma.vercel.app/api?username=bariscoskunl&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" />
+  &nbsp;
+  <img height="195" src="https://my-github-stats-gamma.vercel.app/api/top-langs/?username=bariscoskunl&theme=tokyonight&exclude_repo=my-github-stats&v=4" />
+</p>
 ---
 
 ## 🚀 Hedefler
