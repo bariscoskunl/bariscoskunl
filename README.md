@@ -22,8 +22,10 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
 
 ---
 
-![En Çok Kullanılan Diller](https://my-github-stats-gamma.vercel.app/api/top-langs/?username=bariscoskunl&layout=compact&theme=tokyonight)
-![Barış'ın Detaylı İstatistikleri](https://my-github-stats-gamma.vercel.app/api?username=bariscoskunl&show_icons=true&theme=tokyonight&count_private=true&hide_title=false)
+<p align="center">
+  <img height="180" src="https://my-github-stats-gamma.vercel.app/api?username=bariscoskunl&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" />
+  <img height="180" src="https://my-github-stats-gamma.vercel.app/api/top-langs/?username=bariscoskunl&layout=compact&theme=tokyonight" />
+</p>
 
 
 ---
