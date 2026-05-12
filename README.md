@@ -29,12 +29,6 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Verilerim</h3>
-<p align="center"> 
-  &nbsp;
-  <img height="195" src="https://my-github-stats-gamma.vercel.app/api/top-langs/?username=bariscoskunl&theme=tokyonight&exclude_repo=my-github-stats&v=4" />
-</p>
-
 ---
 
 ## 🚀 Hedefler
