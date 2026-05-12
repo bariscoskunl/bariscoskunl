@@ -30,8 +30,7 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
 </p>
 
 <h3 align="center">📊 GitHub Verilerim</h3>
-<p align="center">
-  <img height="195" src="https://my-github-stats-gamma.vercel.app/api?username=bariscoskunl&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" />
+<p align="center"> 
   &nbsp;
   <img height="195" src="https://my-github-stats-gamma.vercel.app/api/top-langs/?username=bariscoskunl&theme=tokyonight&exclude_repo=my-github-stats&v=4" />
 </p>
