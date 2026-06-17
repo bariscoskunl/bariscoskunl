@@ -25,6 +25,7 @@ Antalya'da yaşıyorum ve C# / .NET ekosisteminde ölçeklenebilir backend çöz
     <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,sqlserver,javascript,react,html,css,bootstrap,git,postman,swagger" />
   </a>
 </p>
+
 ---
 
 ## 🚀 Hedefler
